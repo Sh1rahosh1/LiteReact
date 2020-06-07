@@ -1,0 +1,28 @@
+{
+  "name": "litereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "init": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sh1rahosh1/LiteReact.git"
+  },
+  "author": "tommy&xiaoming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sh1rahosh1/LiteReact/issues"
+  },
+  "homepage": "https://github.com/Sh1rahosh1/LiteReact#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2"
+  },
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
+}
